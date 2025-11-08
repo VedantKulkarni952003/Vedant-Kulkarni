@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ScikitLearn-Dark,git,linux,docker,react,tensorflow,pytorch,github,vscode&perline=50" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,mysql,ai,git,linux,docker,react,tensorflow,pytorch,github,vscode&perline=50" />
 </p>
 
 ---
