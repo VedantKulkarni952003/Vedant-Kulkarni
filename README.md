@@ -29,4 +29,4 @@
 ## 💻 My Projects
 
 Here are some of my important projects:
-[![Project1](https://img.shields.io/badge/Project1-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/VedantKulkarni952003/Cab-Price-Prediction-Modelling-Massachusetts-State-)
+[![Project1]](https://github.com/VedantKulkarni952003/Cab-Price-Prediction-Modelling-Massachusetts-State-)
