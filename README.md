@@ -29,4 +29,11 @@
 ## 💻 My Projects
 
 Here are some of my important projects:
-[![Project1]](https://github.com/VedantKulkarni952003/Cab-Price-Prediction-Modelling-Massachusetts-State-)
+
+[![Cab Price Modelling Massachusetts]](https://github.com/VedantKulkarni952003/Cab-Price-Prediction-Modelling-Massachusetts-State-)
+
+[![Image to Text Generator]](https://github.com/VedantKulkarni952003/TY_DP_ImageCaptionGenerator)
+
+[![British Airways Data Science Simulation FORAGE]](https://github.com/VedantKulkarni952003/British_Airways_DataSci_Project)
+
+
