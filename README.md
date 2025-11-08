@@ -12,7 +12,16 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,mysql,ai,git,linux,docker,react,tensorflow,pytorch,github,vscode&perline=50" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,mysql,ai,git,linux,tensorflow,pytorch,github,vscode&perline=50" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantKulkarni952003&show_icons=true&theme=tokyonight" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Wadekar&layout=compact&theme=tokyonight" height="180"/> -->
 </p>
 
 ---
